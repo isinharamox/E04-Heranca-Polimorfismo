@@ -60,7 +60,7 @@ public class PessoaFisica extends Cliente{
                 break;
             }
         }
-        if (todos os dígitos iguais)
+        if (allDigitsEqual)
             cpfValido = false;
 
         //Calcula o primeiro dígito selecionado
