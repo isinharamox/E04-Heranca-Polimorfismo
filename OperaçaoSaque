@@ -1,0 +1,6 @@
+public class OperaçãoSaque extends Operação{
+
+    OperaçãoSaque(double valor){
+        super ('s' , valor);
+    }
+}
